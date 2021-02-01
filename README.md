@@ -1,2 +1,6 @@
 # newproject1
-## for learning purpose
+## linux comands
+- cd (change directory)
+- pwd (present working directory)
+- ls (list of elements)
+- mkdir (making a directory)
